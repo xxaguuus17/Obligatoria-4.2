@@ -1,0 +1,91 @@
+/**BODY**/
+
+body {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 0px;
+    background-color: blue;
+}
+
+
+/**HEADER**/
+
+.logoheader {
+    background-color: #222222;
+}
+
+
+/**enlaces cabecera**/
+
+.enlaces a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.enlaces {
+    background-image: url(/img/bg_menu.png);
+    padding-left: 80px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+
+/**MASS EFECT**/
+
+.efect {
+    background-image: url(/img/final\ \(1\).jpg);
+    padding: 65px 30px;
+    color: white;
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+}
+
+.efect h2 {
+    color: red;
+    font-size: 30px;
+    padding-left: 30px;
+}
+
+
+/** NOTÍCIAS DESTACADAS**/
+
+.Noticias {
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-left: 0px;
+}
+
+.imagenes-noticia {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.imagenes-noticia p {
+    margin-left: 8px;
+}
+
+section {
+    display: flex;
+    height: 350px;
+    width: 100%;
+}
+
+
+/**FOOTER**/
+
+.footer {
+    background-image: url(/img/bg_peu.png);
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    padding: 5px;
+    color: grey;
+    font-size: 12px;
+}
